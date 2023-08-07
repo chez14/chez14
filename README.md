@@ -4,8 +4,7 @@
 
 I’m Chris, a software engineer in ~~Bandung~~ Area. Welcome to my GitHub Profile
 where usually I mainly use this account to contribute to report bugs,
-sight-seeing, starring project, seeing my colegues' new dungeon and rarely push
-commit to this account.
+sight-seeing, starring project, and seeing my colegues' new dungeon.
 
 
 Most of my code now resides on GitLab, where I can just integrate GitLab's CI/CD
@@ -19,15 +18,11 @@ Or... catch me elsewhere:
 - Find me anywhere else → https://christianto.net/links
 
 ## Skillsets
-Fav editor: vscode (Bzzt, [I made a PHP development plugin pack](https://marketplace.visualstudio.com/items?itemName=chez14.php-superpack) for you!).
+Fav editor: vscode.
 
 Techstacks: PHP, TS, React, Bootstrap, Express, Koa, Typeorm, CodeIgniter,
 Fatfree, GitLab CI/CD, Docker.
 
-React-stack: Nextjs + Mobx.
+React-stack: Nextjs.
 
 Service-stack: DigitalOcean, Linode, Google GCP, Cloudflare.
-
-Workstation:
-- Asus Vivobook S14 (S430FN) on dual monitor
-- Ubuntu 20.04, 64bit
