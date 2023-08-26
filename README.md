@@ -3,12 +3,12 @@
 ## Hello, Hai, 你好, こんにちは！
 
 I’m Chris, a software engineer in ~~Bandung~~ Area. Welcome to my GitHub Profile
-where usually I mainly use this account to contribute to report bugs,
+where I mainly use this account to contribute to report bugs,
 sight-seeing, starring project, and seeing my colegues' new dungeon.
 
 
 Most of my code now resides on GitLab, where I can just integrate GitLab's CI/CD
-stuff on there. Here's the links:
+stuff on there. Here's the link:
 - GitLab → https://gitlab.com/chez14
 
 I also write blogs!
@@ -20,7 +20,7 @@ Or... catch me elsewhere:
 ## Skillsets
 Fav editor: vscode.
 
-Techstacks: PHP, TS, React, Bootstrap, Express, Koa, Typeorm, CodeIgniter,
+Techstacks: PHP, TS, React, Bootstrap, Typeorm, CodeIgniter,
 Fatfree, GitLab CI/CD, Docker.
 
 React-stack: Nextjs.
