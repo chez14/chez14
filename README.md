@@ -18,11 +18,5 @@ Or... catch me elsewhere:
 - Find me anywhere else → https://christianto.net/links
 
 ## Skillsets
-Fav editor: vscode.
-
-Techstacks: PHP, TS, React, Bootstrap, Typeorm, CodeIgniter,
-Fatfree, GitLab CI/CD, Docker.
-
-React-stack: Nextjs.
-
-Service-stack: DigitalOcean, Linode, Google GCP, Cloudflare.
+Refer to my About page in my website: 
+- https://christianto.net/about#:~:text=other%20stuff%20too!-,Skillsets,-Front%2Dend
