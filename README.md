@@ -2,10 +2,7 @@
 
 ## Hello, Hai, 你好, こんにちは！
 
-I’m Chris, a software engineer in ~~Bandung~~ Area. Welcome to my GitHub Profile
-where I mainly use this account to contribute to report bugs,
-sight-seeing, starring project, and seeing my colegues' new dungeon.
-
+I’m Chris, a software engineer in Indonesia.
 
 Most of my code now resides on GitLab, where I can just integrate GitLab's CI/CD
 stuff on there. Here's the link:
